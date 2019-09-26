@@ -1,3 +1,4 @@
+//By Chandler Mitchell and Jordan Hurt
 import java.awt.Graphics;
 
 import javax.swing.JFrame;

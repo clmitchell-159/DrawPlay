@@ -1,3 +1,4 @@
+//By Chandler Mitchell and Jordan Hurt
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
