@@ -21,8 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 #Eclipse stuff - .classpath, etc.
 .classpath
 .settings
 .project
+=======
+>>>>>>> 6932451c13fd91b1e1ac63e9cf213201ac038578
